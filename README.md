@@ -1,18 +1,16 @@
-
-# [Keeper](https://vibhukumar10.github.io/Google-Keep-Clone/) 
+# [Keeper](https://vibhukumar10.github.io/Google-Keep-Clone/)
 
 A simple Google Keep Clone using ⚛React. This also my first React App and it is deployed on the following url : [https://vibhukumar10.github.io/Google-Keep-Clone/](https://vibhukumar10.github.io/Google-Keep-Clone/)
 
-
-## Installation 
+## Installation
 
 Install my-project with npm
 
-```bash 
+```bash
   npm install my-project
   cd my-project
 ```
-    
+
 ## Run Locally
 
 Clone the project
@@ -39,11 +37,10 @@ Start the server
   npm run start
 ```
 
-  
 ## Demo
 
+<img src="https://github.com/Vibhukumar10/Google-Keep-Clone/blob/main/media/demo.gif?raw=true" />
 
-  
 ## Deployment
 
 To deploy this project run
@@ -52,9 +49,6 @@ To deploy this project run
   npm run deploy
 ```
 
-  
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-  
